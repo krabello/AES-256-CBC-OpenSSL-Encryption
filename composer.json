@@ -1,0 +1,17 @@
+{
+    "name": "kevinrabello/encryption",
+    "require-dev": {
+        "phpunit/phpunit": "^6.5"
+    },
+    "autoload": {
+        "classmap": [
+            "src/"
+        ]
+    },    
+    "authors": [
+        {
+            "name": "Kevin Rabello",
+            "email": "kevin.rabello@gmail.com"
+        }
+    ]
+}
