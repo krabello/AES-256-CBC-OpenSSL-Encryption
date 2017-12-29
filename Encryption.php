@@ -1,5 +1,4 @@
 <?php
-
 /**
  * Class Encryption
  *
@@ -11,7 +10,7 @@
  * Requires openssl_encrypt and openssl_decrypt libraries to be installed
  * for PHP. Allows encryption and decryption for AES 256 CBC.
  *
- * @author      krabello <kevin.rabello@gmail.com>
+ * @author      krabello 4<kevin.rabello@gmail.com>
  * @license     http://www.php.net/license/3_01.txt  PHP License 3.01
  * @version     1.0
  * @copyright   (c) 2017, Kevin Rabello
